@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/arvind/static/css/main.0939a641.chunk.css",
+    "main.js": "/arvind/static/js/main.0c2f92cb.chunk.js",
+    "main.js.map": "/arvind/static/js/main.0c2f92cb.chunk.js.map",
+    "runtime-main.js": "/arvind/static/js/runtime-main.97e6c40b.js",
+    "runtime-main.js.map": "/arvind/static/js/runtime-main.97e6c40b.js.map",
+    "static/js/2.58a4f883.chunk.js": "/arvind/static/js/2.58a4f883.chunk.js",
+    "static/js/2.58a4f883.chunk.js.map": "/arvind/static/js/2.58a4f883.chunk.js.map",
+    "static/js/3.8dfcd814.chunk.js": "/arvind/static/js/3.8dfcd814.chunk.js",
+    "static/js/3.8dfcd814.chunk.js.map": "/arvind/static/js/3.8dfcd814.chunk.js.map",
+    "index.html": "/arvind/index.html",
+    "static/css/main.0939a641.chunk.css.map": "/arvind/static/css/main.0939a641.chunk.css.map",
+    "static/js/2.58a4f883.chunk.js.LICENSE.txt": "/arvind/static/js/2.58a4f883.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97e6c40b.js",
+    "static/js/2.58a4f883.chunk.js",
+    "static/css/main.0939a641.chunk.css",
+    "static/js/main.0c2f92cb.chunk.js"
+  ]
+}
